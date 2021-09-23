@@ -2,10 +2,16 @@
   "list": [
     {
       "id": 1,
-      "title": "Duis arcu"
+      "title": "Duis arcu",
+      "image": "https://dummyimage.com/216x243/ffffff/0011ff",
+      "label": "Nullam",
+      "price": "dapibus"
     }, {
       "id": 2,
-      "title": "Aenean tellus metus"
+      "title": "Aenean tellus metus",
+      "image": "https://dummyimage.com/216x243/ffffff/0011ff",
+      "label": "Aliquam",
+      "price": "dapibus"
     }
   ]
 }
