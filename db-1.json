@@ -1,0 +1,47 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "title": "Donec",
+      "image": "https://dummyimage.com/216x243/ffffff/0011ff",
+      "label": "",
+      "price": "Pellentesque",
+      "link": "#"
+    }, {
+      "id": 2,
+      "title": "Aenean tellus metus",
+      "image": "https://dummyimage.com/216x243/ffffff/0011ff",
+      "label": "",
+      "price": "Mauris",
+      "link": "#"
+    }, {
+      "id": 3,
+      "title": "Duis arcu",
+      "image": "https://dummyimage.com/216x243/ffffff/0011ff",
+      "label": "Nullam",
+      "price": "Fusce",
+      "link": "#"
+    }, {
+      "id": 4,
+      "title": "Nulla",
+      "image": "https://dummyimage.com/216x243/ffffff/0011ff",
+      "label": "",
+      "price": "Etiam",
+      "link": "#"
+    }, {
+      "id": 5,
+      "title": "Donec pede",
+      "image": "https://dummyimage.com/216x243/ffffff/0011ff",
+      "label": "",
+      "price": "Suspendisse",
+      "link": "#"
+    }, {
+      "id": 6,
+      "title": "Donec vitae",
+      "image": "https://dummyimage.com/216x243/ffffff/0011ff",
+      "label": "Vivamus",
+      "price": "Donec",
+      "link": "#"
+    }
+  ]
+}
