@@ -28,20 +28,6 @@
       "label": "",
       "price": "Etiam",
       "link": "#"
-    }, {
-      "id": 5,
-      "title": "Donec",
-      "image": "https://dummyimage.com/216x243/ffffff/0011ff",
-      "label": "",
-      "price": "Pellentesque",
-      "link": "#"
-    }, {
-      "id": 6,
-      "title": "Donec pede",
-      "image": "https://dummyimage.com/216x243/ffffff/0011ff",
-      "label": "",
-      "price": "Suspendisse",
-      "link": "#"
     }
   ]
 }
