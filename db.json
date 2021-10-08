@@ -5,7 +5,7 @@
       "title": "Duis arcu",
       "image": "https://dummyimage.com/216x243/ffffff/0011ff",
       "label": "Nullam",
-      "price": "100,00 €",
+      "price": ["100,00 €"],
       "link": "#"
     }, {
       "id": 2,
@@ -26,7 +26,7 @@
       "title": "Nulla",
       "image": "https://dummyimage.com/216x243/ffffff/0011ff",
       "label": "",
-      "price": "145,00 €",
+      "price": ["145,00 €"],
       "link": "#"
     }
   ]
